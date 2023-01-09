@@ -13,3 +13,5 @@ I will keep the /gameweek_data/gw_csv folder updated by once every game week has
 Contributing:
 If you believe there is any data missing or have any issues, don't hesitate to create an issue and I will get back to you as soon as possible.
 
+Future:
+I will look to be adding in extra stats for players in the merged files, e.g. xG, xA, Goal-Creating Actions. From fbref or understat.
