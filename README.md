@@ -1,3 +1,5 @@
+Follow me on twitter at @htdavidcharles
+
 # Fantasy-Premier-League-in-R
 Grabs data from the FPL API and creates a dataframe of all players in the English Premier League with their corresponding data, e.g. total points, goals, average points. Also creates .CSV files for data from each game week
 
